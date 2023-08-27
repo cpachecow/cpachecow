@@ -1,6 +1,11 @@
 ### Hola Mundo !!! 👋
 
 - Estoy actualmente trabajando en tecnologías como RASA y Python que permiten realizar chatbots en Whastapp.
+- Tecnologías:
+  * Python
+  * Rasa
+  * SQL
+  * Git
 
 <!--
 **cpachecow/cpachecow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
